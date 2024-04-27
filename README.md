@@ -35,14 +35,8 @@
 
 ❹  `仓库` → `Actions`, 检查`Workflows`并启用
 
-# 签到预览
-![](https://yife68.gitee.io/icat-pic/posts/2022/5/5.webp)
-
 # 如何获取Cookie
 百度贴吧BDUSS, 打开浏览器，登录 [百度贴吧](https://tieba.baidu.com/), 打开控制台 → 应用 → Cookie，复制 `BDUSS` 的值
-
-DevTools截图:
-<img width="1156" src="https://yife68.gitee.io/icat-pic/posts/2022/5/6.webp">
 
 # GitHub地址
 项目直达链接：https://github.com/yife68/TiebaSign/
